@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579483853032",
+    "project_id": "loginproyect-755f7",
+    "storage_bucket": "loginproyect-755f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579483853032:android:5b8b912fb4a7aef051695d",
+        "android_client_info": {
+          "package_name": "com.moviledev.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579483853032-cnpo8dnvjeh4su12m00ru2or291hvgah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB60b5MHsw5QqXZEWjNUzduXDNvxk29eJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579483853032-cnpo8dnvjeh4su12m00ru2or291hvgah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

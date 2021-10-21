@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="login_title">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="no_account">Not have account? <b>SignUp</b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="resetPass">Reset</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="password">Password</string>
+    <string name="insert_your_email">Insert your email</string>
+</resources>
